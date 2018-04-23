@@ -1,0 +1,2 @@
+# Caropidea
+python-django-project
